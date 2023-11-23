@@ -8,3 +8,5 @@ O jogo conta com rodadas de 1 min para a pontuação, após esse tempo a pontua�
 ![image](https://github.com/cadu-LF/jogo-alvos/assets/61796326/9eac6c50-923e-4e3c-90c0-1e5fdc206f88)
 
 # Vídeo do Jogo
+https://github.com/cadu-LF/jogo-alvos/assets/61796326/3401b939-9124-4a47-acc9-c027358b8754
+
